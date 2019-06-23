@@ -10,8 +10,8 @@
 ## Usage
 
 ```
->>> yinmo = LINE("vRQfQOIas53uzwpvjy9p7CmkDuY2gOpAWqYKI6Ejnb5")
->>> yinmo = LINE("05373356956a@gmail.com","14531453a")
+>>> yinmo = LINE("")
+>>> yinmo = LINE("","")
 ```
 
 ## Requirement
